@@ -1,0 +1,1 @@
+{"uuid":"a958fdd4-c0bc-4a95-9acf-1e16fab5f3b2","name":"tests.ItplacesiTest.init","children":["2e49e143-9af2-461c-ba3c-c98b566731f8"],"description":"","befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1681535148773,"stop":1681535157984}],"afters":[],"start":1681535148773,"stop":1681535157984}

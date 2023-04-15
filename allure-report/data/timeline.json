@@ -1,0 +1,130 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "IGOR-KOMPJUTER",
+    "children" : [ {
+      "name" : "596@IGOR-KOMPJUTER.TestNG-tests-1(27)",
+      "children" : [ {
+        "name" : "testCompanyAvgSalaryAmount",
+        "uid" : "9045bf20cb54afd",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535042186,
+          "stop" : 1681535044601,
+          "duration" : 2415
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testCompanyMaxSalaryAmount",
+        "uid" : "43ada7fb85be82aa",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535059262,
+          "stop" : 1681535060325,
+          "duration" : 1063
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testSubmitSalaryForm",
+        "uid" : "ed2a86d75a78880c",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535102610,
+          "stop" : 1681535147802,
+          "duration" : 45192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testWrongNetAmount",
+        "uid" : "cc8ed038d1649e7e",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535158004,
+          "stop" : 1681535173671,
+          "duration" : 15667
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testPageLayout",
+        "uid" : "14fa74e6b14bd9e1",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535088883,
+          "stop" : 1681535091348,
+          "duration" : 2465
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testAuthWithLinkedin",
+        "uid" : "7a134a7f10dbf6e1",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535006474,
+          "stop" : 1681535025185,
+          "duration" : 18711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testCompanyMinSalaryAmount",
+        "uid" : "246fcf2bbe386ad3",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535068537,
+          "stop" : 1681535069473,
+          "duration" : 936
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testAuthWithGithub",
+        "uid" : "723cae6bb8b486e4",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681534979818,
+          "stop" : 1681534995850,
+          "duration" : 16032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      }, {
+        "name" : "testNavLinks",
+        "uid" : "67397e54fad87ce7",
+        "parentUid" : "3562fa291aea8a73c86663dde8ca044b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1681535078081,
+          "stop" : 1681535078514,
+          "duration" : 433
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+      } ],
+      "uid" : "3562fa291aea8a73c86663dde8ca044b"
+    } ],
+    "uid" : "d1f30f32ebc137e102e6155ec356fed8"
+  } ],
+  "name" : "timeline"
+}

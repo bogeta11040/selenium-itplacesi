@@ -1,0 +1,134 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "it-place.si Smoke test",
+    "children" : [ {
+      "name" : "Smoke test",
+      "children" : [ {
+        "name" : "tests.ItplacesiTest",
+        "children" : [ {
+          "name" : "testAuthWithGithub",
+          "uid" : "723cae6bb8b486e4",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681534979818,
+            "stop" : 1681534995850,
+            "duration" : 16032
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testAuthWithLinkedin",
+          "uid" : "7a134a7f10dbf6e1",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535006474,
+            "stop" : 1681535025185,
+            "duration" : 18711
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testCompanyAvgSalaryAmount",
+          "uid" : "9045bf20cb54afd",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535042186,
+            "stop" : 1681535044601,
+            "duration" : 2415
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testCompanyMaxSalaryAmount",
+          "uid" : "43ada7fb85be82aa",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535059262,
+            "stop" : 1681535060325,
+            "duration" : 1063
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testCompanyMinSalaryAmount",
+          "uid" : "246fcf2bbe386ad3",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535068537,
+            "stop" : 1681535069473,
+            "duration" : 936
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testNavLinks",
+          "uid" : "67397e54fad87ce7",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535078081,
+            "stop" : 1681535078514,
+            "duration" : 433
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testPageLayout",
+          "uid" : "14fa74e6b14bd9e1",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535088883,
+            "stop" : 1681535091348,
+            "duration" : 2465
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testSubmitSalaryForm",
+          "uid" : "ed2a86d75a78880c",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535102610,
+            "stop" : 1681535147802,
+            "duration" : 45192
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        }, {
+          "name" : "testWrongNetAmount",
+          "uid" : "cc8ed038d1649e7e",
+          "parentUid" : "efb5c334e761da6924050c854e5302d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1681535158004,
+            "stop" : 1681535173671,
+            "duration" : 15667
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+        } ],
+        "uid" : "efb5c334e761da6924050c854e5302d9"
+      } ],
+      "uid" : "8a24cdda0e87472911d8bf8190dbeb28"
+    } ],
+    "uid" : "8c07ffdf6370b4bcd2666a591a30669d"
+  } ],
+  "name" : "suites"
+}

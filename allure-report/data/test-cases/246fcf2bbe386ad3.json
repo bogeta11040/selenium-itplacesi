@@ -1,0 +1,138 @@
+{
+  "uid" : "246fcf2bbe386ad3",
+  "name" : "testCompanyMinSalaryAmount",
+  "fullName" : "tests.ItplacesiTest.testCompanyMinSalaryAmount",
+  "historyId" : "7169e975f24e5400b1e41c2532c2ea9c",
+  "time" : {
+    "start" : 1681535068537,
+    "stop" : 1681535069473,
+    "duration" : 936
+  },
+  "description" : "Correct minimum salary amount should be displayed on the company page",
+  "descriptionHtml" : "<p>Correct minimum salary amount should be displayed on the company page</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1681535061544,
+      "stop" : 1681535068501,
+      "duration" : 6957
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1681535069477,
+      "stop" : 1681535070444,
+      "duration" : 967
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "423eebc3398aaf8d",
+      "name" : "OnFailure",
+      "source" : "423eebc3398aaf8d.png",
+      "type" : "image/png",
+      "size" : 190499
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ItplacesiTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ItplacesiTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCompanyMinSalaryAmount"
+  }, {
+    "name" : "parentSuite",
+    "value" : "it-place.si Smoke test"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ItplacesiTest"
+  }, {
+    "name" : "host",
+    "value" : "IGOR-KOMPJUTER"
+  }, {
+    "name" : "thread",
+    "value" : "596@IGOR-KOMPJUTER.TestNG-tests-1(27)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "feature",
+    "value" : "FE001"
+  }, {
+    "name" : "story",
+    "value" : "US005"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "BROWSER",
+    "value" : "CHROME"
+  }, {
+    "name" : "BROWSER_VERSION",
+    "value" : "112"
+  }, {
+    "name" : "ENV",
+    "value" : "QA"
+  }, {
+    "name" : "Test_name",
+    "value" : "Smoke tests"
+  }, {
+    "name" : "WAIT",
+    "value" : "30"
+  } ],
+  "links" : [ {
+    "name" : "TEST",
+    "type" : "custom"
+  }, {
+    "name" : "test-1",
+    "type" : "tms"
+  }, {
+    "name" : "Issue",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "246fcf2bbe386ad3.json",
+  "parameterValues" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+}

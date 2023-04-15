@@ -1,0 +1,91 @@
+[ {
+  "uid" : "cc8ed038d1649e7e",
+  "name" : "testWrongNetAmount",
+  "time" : {
+    "start" : 1681535158004,
+    "stop" : 1681535173671,
+    "duration" : 15667
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9045bf20cb54afd",
+  "name" : "testCompanyAvgSalaryAmount",
+  "time" : {
+    "start" : 1681535042186,
+    "stop" : 1681535044601,
+    "duration" : 2415
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7a134a7f10dbf6e1",
+  "name" : "testAuthWithLinkedin",
+  "time" : {
+    "start" : 1681535006474,
+    "stop" : 1681535025185,
+    "duration" : 18711
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "723cae6bb8b486e4",
+  "name" : "testAuthWithGithub",
+  "time" : {
+    "start" : 1681534979818,
+    "stop" : 1681534995850,
+    "duration" : 16032
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "67397e54fad87ce7",
+  "name" : "testNavLinks",
+  "time" : {
+    "start" : 1681535078081,
+    "stop" : 1681535078514,
+    "duration" : 433
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ed2a86d75a78880c",
+  "name" : "testSubmitSalaryForm",
+  "time" : {
+    "start" : 1681535102610,
+    "stop" : 1681535147802,
+    "duration" : 45192
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "246fcf2bbe386ad3",
+  "name" : "testCompanyMinSalaryAmount",
+  "time" : {
+    "start" : 1681535068537,
+    "stop" : 1681535069473,
+    "duration" : 936
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "14fa74e6b14bd9e1",
+  "name" : "testPageLayout",
+  "time" : {
+    "start" : 1681535088883,
+    "stop" : 1681535091348,
+    "duration" : 2465
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "43ada7fb85be82aa",
+  "name" : "testCompanyMaxSalaryAmount",
+  "time" : {
+    "start" : 1681535059262,
+    "stop" : 1681535060325,
+    "duration" : 1063
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

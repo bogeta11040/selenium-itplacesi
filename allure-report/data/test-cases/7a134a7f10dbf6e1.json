@@ -1,0 +1,138 @@
+{
+  "uid" : "7a134a7f10dbf6e1",
+  "name" : "testAuthWithLinkedin",
+  "fullName" : "tests.ItplacesiTest.testAuthWithLinkedin",
+  "historyId" : "76c6cc6d0bba624293f06b69a6db454",
+  "time" : {
+    "start" : 1681535006474,
+    "stop" : 1681535025185,
+    "duration" : 18711
+  },
+  "description" : "User should be able to authorize with Linkedin",
+  "descriptionHtml" : "<p>User should be able to authorize with Linkedin</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1681534998214,
+      "stop" : 1681535006442,
+      "duration" : 8228
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1681535025190,
+      "stop" : 1681535026045,
+      "duration" : 855
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "424e75140f31d895",
+      "name" : "OnFailure",
+      "source" : "424e75140f31d895.png",
+      "type" : "image/png",
+      "size" : 188892
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ItplacesiTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ItplacesiTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAuthWithLinkedin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "it-place.si Smoke test"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ItplacesiTest"
+  }, {
+    "name" : "host",
+    "value" : "IGOR-KOMPJUTER"
+  }, {
+    "name" : "thread",
+    "value" : "596@IGOR-KOMPJUTER.TestNG-tests-1(27)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "feature",
+    "value" : "FE001"
+  }, {
+    "name" : "story",
+    "value" : "US005"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "BROWSER",
+    "value" : "CHROME"
+  }, {
+    "name" : "BROWSER_VERSION",
+    "value" : "112"
+  }, {
+    "name" : "ENV",
+    "value" : "QA"
+  }, {
+    "name" : "Test_name",
+    "value" : "Smoke tests"
+  }, {
+    "name" : "WAIT",
+    "value" : "30"
+  } ],
+  "links" : [ {
+    "name" : "TEST",
+    "type" : "custom"
+  }, {
+    "name" : "test-1",
+    "type" : "tms"
+  }, {
+    "name" : "Issue",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a134a7f10dbf6e1.json",
+  "parameterValues" : [ "CHROME", "112", "QA", "Smoke tests", "30" ]
+}
